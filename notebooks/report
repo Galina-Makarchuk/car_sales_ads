@@ -1,0 +1,8 @@
+from ydata_profiling import ProfileReport
+import pandas as pd
+
+df=pd.read_csv('vehicles_us.csv')
+
+profile=ProfileReport(df)
+profile.to_notebook_iframe()
+profile.to_file("./notebooks/initial_report.html")
