@@ -1,8 +1,8 @@
-pandas
-numpy
-seaborn
+pandas==2.2.2
+numpy==2.0.0
+seaborn==0.13.2
 matplotlib.pyplot
-plotly
-plotly.express
-streamlit
-streamlit_dynamic_filters
+plotly==5.22.0
+plotly.express==0.4.1
+streamlit==1.36.0
+streamlit_dynamic_filters==0.1.6
