@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib.pyplot
+plotly
+plotly.express
+streamlit
+streamlit_dynamic_filters
